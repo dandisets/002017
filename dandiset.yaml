@@ -11,10 +11,10 @@ assetsSummary:
   numberOfBytes: 0
   numberOfFiles: 0
   schemaKey: AssetsSummary
-citation: Punal, Vanessa; Thornton-Kolbe, Emma M.; Dhillon, Jasmine; Rogow, Jackson
-  A.; Clowney, Eleanor Josephine; Caicedo-Garzón, Valentina (2026) Scaling of adult
-  DL1 projection neuron presynaptic output number with Kenyon cell number (Version
-  draft) [Data set]. DANDI Archive. https://dandiarchive.org/dandiset/002017/draft
+citation: Punal, Vanessa; Caicedo-Garzón, Valentina; Thornton-Kolbe, Emma M.; Dhillon,
+  Jasmine; Rogow, Jackson A.; Clowney, Eleanor Josephine (2026) Scaling of adult DL1
+  projection neuron presynaptic output number with Kenyon cell number (Version draft)
+  [Data set]. DANDI Archive. https://dandiarchive.org/dandiset/002017/draft
 contributor:
 - affiliation:
   - identifier: https://ror.org/00jmfr291
@@ -24,6 +24,16 @@ contributor:
   identifier: 0000-0002-2969-3993
   includeInCitation: true
   name: Punal, Vanessa
+  roleName:
+  - dcite:Author
+  schemaKey: Person
+- affiliation:
+  - identifier: https://ror.org/00jmfr291
+    name: University of Michigan
+    schemaKey: Affiliation
+  identifier: 0009-0009-4692-7403
+  includeInCitation: true
+  name: Caicedo-Garzón, Valentina
   roleName:
   - dcite:Author
   schemaKey: Person
@@ -117,16 +127,6 @@ contributor:
   roleName:
   - dcite:Funder
   schemaKey: Organization
-- affiliation:
-  - identifier: https://ror.org/00jmfr291
-    name: University of Michigan
-    schemaKey: Affiliation
-  identifier: 0009-0009-4692-7403
-  includeInCitation: true
-  name: Caicedo-Garzón, Valentina
-  roleName:
-  - dcite:Author
-  schemaKey: Person
 dateCreated: '2026-09-29T05:48:41.851478+00:00'
 description: This dataset examines how presynaptic bouton number from individual adult
   DL1 projection neurons scales with Kenyon cell number in the Drosophila mushroom

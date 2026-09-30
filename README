@@ -1,0 +1,7 @@
+DL1_tsMARCM_scaling_adult
+
+This dataset examines how adult DL1 projection neuron presynaptic output number scales with Kenyon cell number in the Drosophila mushroom body. Single DL1 projection neurons were visualized using tsMARCM and examined in sham control and hydroxyurea-treated animals using confocal microscopy.
+
+This dataset contains microscopy data organized using BIDS microscopy conventions.
+
+Source microscopy files were converted to OME-TIFF and checked against source metadata before inclusion.

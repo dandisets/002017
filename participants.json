@@ -1,0 +1,14 @@
+{
+  "strain": {
+    "Description": "Strain or genotype information."
+  }, 
+  "participant_id": {
+    "Description": "Unique identifier for the biological subject."
+  }, 
+  "strain_rrid": {
+    "Description": "Research Resource Identifier for the strain, when available."
+  }, 
+  "species": {
+    "Description": "Species of the biological subject."
+  }
+}

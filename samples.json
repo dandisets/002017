@@ -1,0 +1,28 @@
+{
+  "sample_id": {
+    "Description": "Unique identifier for the biological sample."
+  }, 
+  "participant_id": {
+    "Description": "Biological subject from which the sample was obtained."
+  }, 
+  "experimental_condition": {
+    "Description": "Biological experimental condition for the physical brain.", 
+    "Levels": {
+      "HU": "Kenyon cell ablation condition.", 
+      "sham": "Sham control condition."
+    }
+  }, 
+  "sample_type": {
+    "Description": "Type of biological sample."
+  }, 
+  "original_brain_number": {
+    "Description": "Original brain number recorded in the source CZI filename within its experimental round and condition."
+  }, 
+  "experimental_round": {
+    "Description": "Experimental/acquisition round associated with the physical brain.", 
+    "Levels": {
+      "round 1": "First experimental/acquisition round.", 
+      "round 2": "Second experimental/acquisition round."
+    }
+  }
+}

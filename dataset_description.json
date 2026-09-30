@@ -1,0 +1,24 @@
+{
+  "Keywords": [
+    "Drosophila melanogaster", 
+    "mushroom body", 
+    "olfactory system", 
+    "projection neurons", 
+    "DL1 projection neurons", 
+    "Kenyon cells", 
+    "tsMARCM", 
+    "hydroxyurea", 
+    "confocal microscopy"
+  ], 
+  "BIDSVersion": "1.11.1", 
+  "Authors": [
+    "Vanessa M. Puñal", 
+    "Valentina Caicedo-Garzón", 
+    "Emma M. Thornton-Kolbe", 
+    "Jasmine Dhillon", 
+    "Jackson A. Rogow", 
+    "E. Josephine Clowney"
+  ], 
+  "DatasetType": "raw", 
+  "Name": "DL1_tsMARCM_scaling_adult"
+}

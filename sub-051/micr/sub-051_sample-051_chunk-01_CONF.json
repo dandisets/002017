@@ -1,0 +1,30 @@
+{
+  "BodyPart": "calyx + mushroom body lobes + antennal lobe", 
+  "BodyPartDetails": "calyx + mushroom body lobes + antennal lobe; side=left", 
+  "SampleEnvironment": "ex vivo", 
+  "SampleFixation": "4% paraformaldehyde (PFA), 25 min at room temperature", 
+  "SampleStaining": [
+    "DAPI; supplier=Sigma; catalog=D9542; concentration/dilution=1:1000"
+  ], 
+  "SamplePrimaryAntibody": [
+    "target=GFP; host=Rabbit; clonality/clone=Polyclonal; supplier=Fisher/Invitrogen; catalog=A11122; dilution=1:250", 
+    "target=mCherry; host=Chicken; clonality/clone=Polyclonal; supplier=Novus; catalog=NBP2-25158; dilution=1:1000", 
+    "target=Trio; host=Mouse; clonality/clone=Monoclonal; supplier=DSHB; catalog=9.4A; dilution=1:100"
+  ], 
+  "SampleSecondaryAntibody": [
+    "host=Goat; anti-Rabbit; fluorophore=Alexa Fluor 488; supplier=Fisher/Invitrogen; catalog=A11008; dilution=1:500", 
+    "host=Goat; anti-Chicken; fluorophore=Alexa Fluor 568; supplier=Fisher/Invitrogen; catalog=A11041; dilution=1:500", 
+    "host=Goat; anti-Mouse; fluorophore=Alexa Fluor 647; supplier=Fisher/Invitrogen; catalog=A21236; dilution=1:500"
+  ], 
+  "Manufacturer": "Zeiss", 
+  "ManufacturersModelName": "LSM 880", 
+  "PixelSize": [
+    0.0706180761239, 
+    0.0706180761239, 
+    0.5
+  ], 
+  "PixelSizeUnits": "um", 
+  "InstitutionName": "University of Michigan", 
+  "InstitutionalDepartmentName": "Molecular, Cellular and Developmental Biology", 
+  "InstitutionAddress": "Ann Arbor, Michigan, USA"
+}

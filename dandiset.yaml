@@ -8,9 +8,19 @@ access:
 - schemaKey: AccessRequirements
   status: dandi:OpenAccess
 assetsSummary:
-  numberOfBytes: 0
-  numberOfFiles: 0
+  approach: []
+  dataStandard:
+  - identifier: RRID:SCR_016124
+    name: Brain Imaging Data Structure (BIDS)
+    schemaKey: StandardsType
+  measurementTechnique: []
+  numberOfBytes: 13078916734
+  numberOfFiles: 26
+  numberOfSamples: 5
+  numberOfSubjects: 5
   schemaKey: AssetsSummary
+  species: []
+  variableMeasured: []
 citation: Punal, Vanessa; Caicedo-Garzón, Valentina; Thornton-Kolbe, Emma M.; Dhillon,
   Jasmine; Rogow, Jackson A.; Clowney, Eleanor Josephine (2026) Scaling of adult DL1
   projection neuron presynaptic output number with Kenyon cell number (Version draft)

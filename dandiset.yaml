@@ -11,16 +11,121 @@ assetsSummary:
   numberOfBytes: 0
   numberOfFiles: 0
   schemaKey: AssetsSummary
-citation: Punal, Vanessa (2026) Scaling of adult DL1 projection neuron presynaptic
-  output number with Kenyon cell number (Version draft) [Data set]. DANDI Archive.
-  https://dandiarchive.org/dandiset/002017/draft
+citation: Punal, Vanessa; Thornton-Kolbe, Emma M.; Dhillon, Jasmine; Rogow, Jackson
+  A.; Clowney, Eleanor Josephine; Caicedo-Garzón, Valentina (2026) Scaling of adult
+  DL1 projection neuron presynaptic output number with Kenyon cell number (Version
+  draft) [Data set]. DANDI Archive. https://dandiarchive.org/dandiset/002017/draft
 contributor:
-- affiliation: []
+- affiliation:
+  - identifier: https://ror.org/00jmfr291
+    name: University of Michigan
+    schemaKey: Affiliation
   email: vmpunal@umich.edu
+  identifier: 0000-0002-2969-3993
   includeInCitation: true
   name: Punal, Vanessa
   roleName:
+  - dcite:Author
+  schemaKey: Person
+- affiliation:
+  - identifier: https://ror.org/00jmfr291
+    name: University of Michigan
+    schemaKey: Affiliation
+  identifier: 0000-0002-3036-8071
+  includeInCitation: true
+  name: Thornton-Kolbe, Emma M.
+  roleName:
+  - dcite:Author
+  schemaKey: Person
+- affiliation:
+  - identifier: https://ror.org/00jmfr291
+    name: University of Michigan
+    schemaKey: Affiliation
+  includeInCitation: true
+  name: Dhillon, Jasmine
+  roleName:
+  - dcite:Author
+  schemaKey: Person
+- affiliation:
+  - identifier: https://ror.org/05cf8a891
+    name: Albert Einstein College of Medicine
+    schemaKey: Affiliation
+  identifier: 0000-0001-5060-6770
+  includeInCitation: true
+  name: Rogow, Jackson A.
+  roleName:
+  - dcite:Author
+  schemaKey: Person
+- affiliation:
+  - identifier: https://ror.org/00jmfr291
+    name: University of Michigan
+    schemaKey: Affiliation
+  email: jclowney@umich.edu
+  identifier: 0000-0002-9150-9464
+  includeInCitation: true
+  name: Clowney, Eleanor Josephine
+  roleName:
+  - dcite:Author
   - dcite:ContactPerson
+  schemaKey: Person
+- awardNumber: K12-GM111725
+  identifier: https://ror.org/01cwqze88
+  includeInCitation: false
+  name: National Institutes of Health
+  roleName:
+  - dcite:Funder
+  schemaKey: Organization
+- awardNumber: R01DC018032
+  identifier: https://ror.org/01cwqze88
+  includeInCitation: false
+  name: National Institutes of Health
+  roleName:
+  - dcite:Funder
+  schemaKey: Organization
+- awardNumber: DC00011
+  identifier: https://ror.org/01cwqze88
+  includeInCitation: false
+  name: National Institutes of Health
+  roleName:
+  - dcite:Funder
+  schemaKey: Organization
+- awardNumber: Biomedical Scholar Award
+  identifier: https://ror.org/02xhk2825
+  includeInCitation: false
+  name: Pew Charitable Trusts
+  roleName:
+  - dcite:Funder
+  schemaKey: Organization
+- awardNumber: Scholar Award
+  identifier: https://ror.org/003ghvj67
+  includeInCitation: false
+  name: McKnight Foundation
+  roleName:
+  - dcite:Funder
+  schemaKey: Organization
+- awardNumber: Scholar Award
+  identifier: https://ror.org/0515k5w36
+  includeInCitation: false
+  name: Rita Allen Foundation
+  roleName:
+  - dcite:Funder
+  schemaKey: Organization
+- awardNumber: Hanna Gray Fellowship
+  identifier: https://ror.org/006w34k90
+  includeInCitation: false
+  name: Howard Hughes Medical Institute
+  roleName:
+  - dcite:Funder
+  schemaKey: Organization
+- affiliation:
+  - identifier: https://ror.org/00jmfr291
+    name: University of Michigan
+    schemaKey: Affiliation
+  identifier: 0009-0009-4692-7403
+  includeInCitation: true
+  name: Caicedo-Garzón, Valentina
+  roleName:
+  - dcite:Author
   schemaKey: Person
 dateCreated: '2026-09-29T05:48:41.851478+00:00'
 description: This dataset examines how presynaptic bouton number from individual adult
